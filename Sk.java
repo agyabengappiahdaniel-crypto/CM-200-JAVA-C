@@ -1,6 +1,6 @@
 public class Sk{
     public Static Void Main(Srting[] args){
-      System.out.print("Hello sk bwoy");
+      System.out.print("Hello Danny");
 
 
 
